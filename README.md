@@ -1,2 +1,2 @@
 # Transparency
-Readme
+Please see the Wiki pages. 
